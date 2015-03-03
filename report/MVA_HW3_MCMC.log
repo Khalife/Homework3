@@ -1,14 +1,26 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.5)  3 MAR 2015 14:36
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.20)  3 MAR 2015 11:33
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MVA_HW3_MCMC.tex
 (./MVA_HW3_MCMC.tex
+<<<<<<< HEAD
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+=======
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,6 +35,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -37,10 +50,27 @@ Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
@@ -48,6 +78,15 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -55,19 +94,32 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -217,7 +269,11 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -248,7 +304,11 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -272,6 +332,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -291,6 +352,27 @@ Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -306,7 +388,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks17
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks18
 \symAMSa=\mathgroup4
@@ -314,11 +400,19 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count91
 \float@exts=\toks19
@@ -326,16 +420,27 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box27
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks21
 \c@algorithm=\count92
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -351,24 +456,43 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip45
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
+<<<<<<< HEAD
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+=======
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks22
 \ex@=\dimen113
 ))
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen114
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count100
@@ -409,10 +533,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen122
@@ -426,12 +557,20 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \c@ContinuedFloat=\count112
 Package caption Info: float package is loaded.
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/caption/subcaption.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/subcaption.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 \c@subfigure=\count113
 \c@subtable=\count114
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count115
 \sf@farskip=\skip49
@@ -441,7 +580,11 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \sf@top=\skip52
 \sf@bottom=\skip53
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 \fancy@headwidth=\skip54
 \f@ncyO@elh=\skip55
 \f@ncyO@erh=\skip56
@@ -452,7 +595,11 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen130
 \extrarowheight=\dimen131
@@ -460,10 +607,17 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip63
 \backup@length=\skip64
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen132
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/makecell/makecell.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen132
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/makecell/makecell.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen133
 \c@nlinenum=\count116
@@ -485,7 +639,11 @@ LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
 \scratchdimen=\dimen134
@@ -498,11 +656,19 @@ LaTeX Font Info:    ... okay on input line 80.
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks30
+<<<<<<< HEAD
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+=======
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -511,6 +677,7 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -527,6 +694,24 @@ Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -538,7 +723,11 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -580,12 +769,20 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for U+msa on input line 87.
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
+<<<<<<< HEAD
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+=======
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 10000) in paragraph at lines 88--89
@@ -608,7 +805,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+<<<<<<< HEAD
 [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+=======
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 129--134
@@ -636,16 +837,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--164
  []
 
 [2]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 165--178
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 165--174
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 165--178
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 165--174
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 165--178
 
  []
@@ -696,4 +906,61 @@ PDF statistics:
  53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 165--174
+
+ []
+
+[3] <nrwHM.jpg, id=26, 562.1pt x 421.575pt>
+File: nrwHM.jpg Graphic file (type jpg)
+ <use nrwHM.jpg>
+Package pdftex.def Info: nrwHM.jpg used on input line 196.
+(pdftex.def)             Requested size: 281.04932pt x 210.78697pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
+
+ []
+
+<arwHM.jpg, id=27, 562.1pt x 421.575pt>
+File: arwHM.jpg Graphic file (type jpg)
+ <use arwHM.jpg>
+Package pdftex.def Info: arwHM.jpg used on input line 205.
+(pdftex.def)             Requested size: 281.04932pt x 210.78697pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--210
+
+ []
+
+[4 <./nrwHM.jpg>] [5 <./arwHM.jpg>] (./MVA_HW3_MCMC.aux) ) 
+Here is how much of TeX's memory you used:
+ 5205 strings out of 493117
+ 74042 string characters out of 6135433
+ 152697 words of memory out of 5000000
+ 8561 multiletter control sequences out of 15000+600000
+ 15962 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,43p,432b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2
+014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/cm-super/sfti1200.pfb>
+Output written on MVA_HW3_MCMC.pdf (5 pages, 220221 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 43aaccdc23ff47a31f7f25171f3dfe76709832bf
 
