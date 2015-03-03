@@ -1,0 +1,22 @@
+% Exercise 1 : gamma Metropolis hastings
+
+%try different values of gamma
+n_samples=10000;
+%gamma=1;
+gamma=4;
+%gamma=50;
+%[error,X_sample]=gammaMH(1,n_samples);
+mcmc=100;
+%loop to see the influence of gamma
+Gamma=cumsum(ones(50,1));
+error=zeros(50,1);
+
+for n=1:mcmc
+    [e,~]=gammaMH(Gamma(i),n_samples);
+    error(i)=error(i)+e;
+end
+
+
+
+plot(error)
+title('Error plot');
